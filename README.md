@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan Ferreira
-- 👀 I’m interested in Java, css, html, sqlserver,
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Java for desktop and web, CSS, HTML and XHTML, SQLServer,
+- 🌱 I’m currently learning everyten about Java
+- 💞️ I’m looking to collaborate on public projets and learnin with that.
 - 📫 How to reach me ...
           instagram: @jonathan.algoz
 
